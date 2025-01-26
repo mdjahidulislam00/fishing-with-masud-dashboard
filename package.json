@@ -6,12 +6,13 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+     "start": "PORT=3001 react-scripts start"
   },
   "author": {
-    "name": "TailAdmin",
-    "email": "hello@tailadmin.com",
-    "url": "https://tailadmin.com"
+    "name": "Fishign-with-masud-Dashboard",
+    "email": "fishingwithmasudsupport.com",
+    "url": "https://fishingwithmasud.com"
   },
   "dependencies": {
     "apexcharts": "^3.41.0",
